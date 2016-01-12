@@ -195,6 +195,9 @@
                                 <variation key="widthClass=compact" misplaced="YES">
                                     <rect key="frame" x="225" y="199" width="113.5" height="19"/>
                                 </variation>
+                                <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
+                                    <rect key="frame" x="289.5" y="247.5" width="112.5" height="19"/>
+                                </variation>
                                 <connections>
                                     <action selector="helpButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pTE-2x-0wr"/>
                                 </connections>
@@ -335,14 +338,14 @@
                                 <exclude reference="o3g-Mf-tch"/>
                                 <exclude reference="tfF-Ii-2ml"/>
                                 <exclude reference="yvp-Gd-mZH"/>
-                                <exclude reference="8x2-dh-wys"/>
-                                <exclude reference="Ae6-Fx-kV3"/>
-                                <exclude reference="X59-x7-PGy"/>
-                                <exclude reference="a6e-xn-YR6"/>
                                 <exclude reference="GAv-hp-bW9"/>
                                 <exclude reference="ZjA-bn-jHd"/>
                                 <exclude reference="lvM-Y7-Oa9"/>
                                 <exclude reference="opH-m3-479"/>
+                                <exclude reference="8x2-dh-wys"/>
+                                <exclude reference="Ae6-Fx-kV3"/>
+                                <exclude reference="X59-x7-PGy"/>
+                                <exclude reference="a6e-xn-YR6"/>
                                 <exclude reference="7pS-oI-xSh"/>
                                 <exclude reference="YDh-fX-Mon"/>
                                 <exclude reference="eKC-Kx-MCC"/>
@@ -366,10 +369,10 @@
                                 <include reference="bEw-Ku-CKZ"/>
                                 <exclude reference="cv6-3S-OWV"/>
                                 <exclude reference="yvp-Gd-mZH"/>
+                                <exclude reference="EWQ-PD-ZWe"/>
                                 <exclude reference="8x2-dh-wys"/>
                                 <exclude reference="Ae6-Fx-kV3"/>
                                 <exclude reference="X59-x7-PGy"/>
-                                <exclude reference="EWQ-PD-ZWe"/>
                                 <exclude reference="xxt-Uo-pTq"/>
                                 <exclude reference="Z8R-lI-o0i"/>
                                 <include reference="Gdj-x0-FnY"/>
@@ -386,8 +389,8 @@
                                 <exclude reference="aEA-rr-YI8"/>
                                 <exclude reference="ftJ-CK-TB3"/>
                                 <exclude reference="tfF-Ii-2ml"/>
-                                <exclude reference="a6e-xn-YR6"/>
                                 <exclude reference="ZjA-bn-jHd"/>
+                                <exclude reference="a6e-xn-YR6"/>
                                 <exclude reference="5ma-r0-xZa"/>
                                 <exclude reference="FeO-gx-7OL"/>
                                 <exclude reference="uXo-Td-3Qo"/>
