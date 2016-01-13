@@ -196,7 +196,7 @@
                                     <rect key="frame" x="225" y="199" width="113.5" height="19"/>
                                 </variation>
                                 <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                                    <rect key="frame" x="289.5" y="247.5" width="112.5" height="19"/>
+                                    <rect key="frame" x="289" y="247" width="112.5" height="19"/>
                                 </variation>
                                 <connections>
                                     <action selector="helpButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pTE-2x-0wr"/>
